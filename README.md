@@ -2,7 +2,7 @@
 
 > AI-powered codebase health scanner. Paste any GitHub repo URL and get a full tech debt audit — outdated dependency risks explained in plain English, complexity hotspots, and a prioritized fix roadmap — in under 30 seconds.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-cyan)](https://your-vercel-url.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-cyan)](https://techdebt-radar.vercel.app/)
 [![React](https://img.shields.io/badge/React-18-blue)]()
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)]()
 [![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3_70B-orange)]()
