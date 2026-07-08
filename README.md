@@ -30,7 +30,7 @@
 
 ## Running Locally
 
-git clone https://github.com/YOUR_USERNAME/techdebt-radar
+git clone https://github.com/SaadKhan17223/techdebt-radar
 cd techdebt-radar
 npm install
 npm run dev
